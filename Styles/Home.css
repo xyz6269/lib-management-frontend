@@ -1,0 +1,7 @@
+.Nav{
+    position: fixed; /* fix the position of the nav bar */
+    top: 0; /* set the distance from the top of the viewport */
+    left: 0; /* set the distance from the left of the viewport */
+    width: 100%; /* set the width to occupy the full width of the viewport *//* add some padding for spacing */
+    box-sizing: border-box;
+}
